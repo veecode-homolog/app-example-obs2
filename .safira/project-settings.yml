@@ -1,6 +1,6 @@
 project:
-  name: app-exemple-platform-obs
-  description: app-exemple-platform-obs
+  name: app-example-obs2
+  description: app-example-obs2
   java:
     package: codes.platform.demo.
   language: java

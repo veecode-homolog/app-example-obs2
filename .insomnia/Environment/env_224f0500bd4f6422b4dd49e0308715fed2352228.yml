@@ -1,6 +1,6 @@
-_id: env_app-exemple-platform-obs
+_id: env_app-example-obs2
 type: Environment
-parentId: wrk_app-exemple-platform-obs
+parentId: wrk_app-example-obs2
 modified: 1674571802204
 created: 1674571802204
 name: Base Environment

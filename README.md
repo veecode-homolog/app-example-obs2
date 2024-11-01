@@ -1,8 +1,8 @@
-# app-exemple-platform-obs
+# app-example-obs2
 
 ## Description
 
-app-exemple-platform-obs
+app-example-obs2
 
 
 An example of springboot project.

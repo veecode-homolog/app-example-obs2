@@ -1,8 +1,8 @@
-_id: wrk_app-exemple-platform-obs
+_id: wrk_app-example-obs2
 type: Workspace
 parentId: null
 modified: 1674571802202
 created: 1674571802202
-name: app-exemple-platform-obs.yaml
+name: app-example-obs2.yaml
 description: ""
 scope: design

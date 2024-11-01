@@ -1,12 +1,12 @@
 version: '3.8'
 services:
-  app-exemple-platform-obs:
-    container_name: app-exemple-platform-obs
+  app-example-obs2:
+    container_name: app-example-obs2
     build:
       context: .
       dockerfile: Dockerfile
     environment:
-      - OTEL_SERVICE_NAME=app-exemple-platform-obs
+      - OTEL_SERVICE_NAME=app-example-obs2
       - OTEL_METRICS_EXPORTER=none
       - OTEL_TRACES_EXPORTER=jaeger
       - OTEL_EXPORTER_JAEGER_ENDPOINT=http://jaeger:14250

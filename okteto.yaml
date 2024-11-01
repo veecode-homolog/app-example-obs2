@@ -1,13 +1,13 @@
-name: app-exemple-platform-obs
+name: app-example-obs2
 build:
-  app-exemple-platform-obs:
-    image: okteto.dev/java-gradle-app-exemple-platform-obs:1.0.0
+  app-example-obs2:
+    image: okteto.dev/java-gradle-app-example-obs2:1.0.0
     dockerfile: Dockerfile.okteto
     context: .
 deploy:
   - kubectl apply -f okteto-k8s.yaml
 dev:
-  app-exemple-platform-obs:
+  app-example-obs2:
     image: veecode/okteto-runtime:java17
     command: bash
     sync:

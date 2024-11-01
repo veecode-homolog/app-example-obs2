@@ -1,5 +1,5 @@
-site_name: "app-exemple-platform-obs"
-site_description: "app-exemple-platform-obs"
+site_name: "app-example-obs2"
+site_description: "app-example-obs2"
 
 nav:
   - Introduction: index.md

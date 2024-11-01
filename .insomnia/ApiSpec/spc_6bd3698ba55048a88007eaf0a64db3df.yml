@@ -1,14 +1,14 @@
-_id: spc_app-exemple-platform-obs
+_id: spc_app-example-obs2
 type: ApiSpec
-parentId: wrk_app-exemple-platform-obs
+parentId: wrk_app-example-obs2
 modified: 1674573608115
 created: 1674571804450
-fileName: app-exemple-platform-obs.yaml
+fileName: app-example-obs2.yaml
 contents: "openapi: 3.0.0
 
   info:
 
-  \  description: \"app-exemple-platform-obs
+  \  description: \"app-example-obs2
 
   \    Swagger at [http://swagger.io](http://swagger.io) or on
   [irc.freenode.net,
@@ -20,7 +20,7 @@ contents: "openapi: 3.0.0
 
   \  version: 1.0.2
 
-  \  title: app-exemple-platform-obs
+  \  title: app-example-obs2
 
   \  termsOfService: http://swagger.io/terms/
 

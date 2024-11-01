@@ -1,6 +1,6 @@
-# app-exemple-platform-obs
+# app-example-obs2
 
-app-exemple-platform-obs
+app-example-obs2
 
 ## Getting started
 
